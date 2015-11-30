@@ -18,7 +18,7 @@
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <div class="page-header" style="margin-top: 10px;">
-                            <h3>My  njosdjfodjof Login Form</h3>
+                            <h3>My tttutuLogin Form</h3>
                         </div>
 
                         <form class="form-horizontal" method="POST" action="checkUser.php">
